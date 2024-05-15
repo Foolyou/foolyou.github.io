@@ -1,1 +1,4 @@
+baseURL = 'https://foolyou.github.io/'
+languageCode = 'en-us'
+title = "Foolyou's Smalltalk"
 theme = 'typo'
